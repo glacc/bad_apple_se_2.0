@@ -9,3 +9,5 @@
 >
 > ---
 > * SEBA_Player_HD.cs - 视频播放器代码
+
+视频：https://www.bilibili.com/video/BV1r64y1M77X
