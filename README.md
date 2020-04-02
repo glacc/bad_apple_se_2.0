@@ -2,13 +2,9 @@
 
 * SEBA_VS_2.zip - Converter project files
 
----
 
-* Blueprints.zip - Bluprints of data module and player
+* Blueprints.zip - Bluprints of data module and player (Passwd: BadAppleSEbyGlacc)
 
-(Passwd: BadAppleSEbyGlacc)
-
----
 
 * SEBA_Player_HD.cs - Video player source code
 
